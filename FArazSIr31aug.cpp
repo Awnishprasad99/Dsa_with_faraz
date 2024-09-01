@@ -150,3 +150,10 @@
 
 
 // }
+
+
+// how to use var and const and what are the differences 
+// the only difference between var and const is var value get changed const value get not changed
+
+// #include<bits/stdc++.h>
+
