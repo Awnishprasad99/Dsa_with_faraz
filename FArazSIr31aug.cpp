@@ -38,23 +38,33 @@
 // }
 
 
-// #include<bits/stdc++.h>
-// using namespace std;
+
 
 // // int add(int a , int b){
 // //         int c=a+b;
-// //         return c;
+// //    ;     return c;
 // //     }
+// #include<bits/stdc++.h>
+// using namespace std;
 
 // int main(){
 
-//    int a;
+// //    int a;
+// //   cout<< sizeof(a);
+
 //    float b;
+//    cout<< sizeof(b);
+
+
 //    double c;
+//    cout<< sizeof(c);
 
+// bool d;
+// cout << sizeof(d);
 
-  
-  
+// char f;
+// // cout<< sizeof(f);
+
 //     return 0;
 // }
 
