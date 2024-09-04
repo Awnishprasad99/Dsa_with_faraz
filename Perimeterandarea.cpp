@@ -29,20 +29,7 @@ int main(){
 
 // cout<<"the perimeter of square is "<<(4*s);
 
-
-// cout<<"Enter the value of l and b to find the perimeter of rectangle"<<endl;
-
-// cout<<"Enter the length of square"<<" ";
-
-// int l;
-// cin>>l;
-
-// cout<<"Enter the value of breath"<<" ";
-// int b;
-// cin>>b;
-
-// cout<<"The perimeter of square is"<<" "<<2*(l+b);
-
+n 
 
     return 0;
 }
