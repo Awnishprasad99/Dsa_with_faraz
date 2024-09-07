@@ -1,6 +1,5 @@
-
-// bool d;
-// cout << sizeof(d);
-
-// char f;
-// cout<< sizeof(f);
+ //  cout<<"my name is harsh";
+        //   cout<<"my name is harsh";
+        //   cout<<"my name is harsh";
+        //   cout<<"my name is harsh";
+        //   cout<<"my name is harsh";
