@@ -5,9 +5,12 @@ int main(){
     int b;
     cin>>a;
     cin>>b;
-    if((a==1&&b==2)||(b==1&&a==2)){
-        cout<<"3";
-        
+    for(int i=1;i<=3;i++){
+        if(i!=a&&i!=b)
+        {
+            cout<<i;
+        }
+        return 0;
     }
-    else cout<<""
+
 }
