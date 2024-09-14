@@ -14,7 +14,10 @@ int main(){
     else if(b>=97&&b<=122){
         cout<<"Entered alphabet is small";
     }
-    else {cout<<"May be you entered number or special character";}
+    else if(b>=48&&b<=57){
+        cout<<"Entered  number";
+    }
+    else {cout<<"May be you entered  special character";}
 
 
     return 0;
