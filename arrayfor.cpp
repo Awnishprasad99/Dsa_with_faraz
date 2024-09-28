@@ -11,5 +11,9 @@ int main(){
     cout<<*marks<<endl;
     cout<<marks+1<<endl;
     cout<<*marks+1<<endl;
-    cout<<*marks+3;
+    cout<<*marks+3<<endl;
+     marks[6] = 100;
+    cout<<marks[6]<<endl;;
+    cout<<marks[-1];
+    
 }
